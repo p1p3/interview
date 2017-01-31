@@ -84,6 +84,7 @@
 - If I want to manipulate the DOM what should I do?
 - Can you explain the Scope Inheritance?
 - Can you explain the ```controller as``` syntax?
+
 #### Fun
 - What's a cool project that you've recently worked on?
 - What are some things you like about the developer tools you use?
