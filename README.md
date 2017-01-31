@@ -80,8 +80,8 @@
 - Do you know the $resource factory? what's its purpose?
 - What's a module?
 - How do we add custom behavior when an element is clicked?
-- How do we hide the template for beign briefly displayed by the browser in its raw form while the application is loading?
-- If I want to manipulate the DOM what should I do?
+- How do we hide the template for being briefly displayed by the browser in its raw form while the application is loading?
+- If you want to manipulate the DOM what should you do?
 - Can you explain the Scope Inheritance?
 - Can you explain the ```controller as``` syntax?
 
