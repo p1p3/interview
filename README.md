@@ -79,7 +79,11 @@
 - What's dependency injection? What are the advantages?
 - Do you know the $resource factory? what's its purpose?
 - What's a module?
-
+- How do we add custom behavior when an element is clicked?
+- How do we hide the template for beign briefly displayed by the browser in its raw form while the application is loading?
+- If I want to manipulate the DOM what should I do?
+- Can you explain the Scope Inheritance?
+- Can you explain the ```controller as``` syntax?
 #### Fun
 - What's a cool project that you've recently worked on?
 - What are some things you like about the developer tools you use?
