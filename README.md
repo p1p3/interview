@@ -70,6 +70,16 @@
 - What tools would you use to test your code's functionality?
 - What is the difference between a unit test and a functional/integration test?
 
+#### Angular 1.x
+- What's interpolation?
+- What's the difference between directive and controller?
+- Explain the concept of data-binding
+- What's the difference between template and view?
+- What's a service?
+- What's dependency injection? What are the advantages?
+- Do you know the $resource factory? what's its purpose?
+- What's a module?
+
 #### Fun
 - What's a cool project that you've recently worked on?
 - What are some things you like about the developer tools you use?
