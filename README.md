@@ -61,7 +61,8 @@
 - What is the difference between == and ===?
 - What are some of the advantages/disadvantages of typescript and coffeescript?
 - What tools and techniques do you use debugging JavaScript code?
-- Can you name any of the new functionality of ES6?
+- From the latest versions of ECMAScript what’s your favorite feature?
+- What's destructuring assignment ?
 - Do you know any task runner?
 - Do you know any module bundler?
 
@@ -84,6 +85,33 @@
 - If you want to manipulate the DOM what should you do?
 - Can you explain the Scope Inheritance?
 - Can you explain the ```controller as``` syntax?
+
+#### Angular 2.x
+- Name some common or popular angular features
+- What are some of the advantages of Angular over other frameworks?
+- Whats Ivy?
+- What ways angular offers to compile the application?
+- What is an angular module?
+- Can you mention a few lifecycle hooks in angular? explain them.
+- Differences between @Directive() & @Component() (attribute directive & component directive).
+- What is a structural directive?
+- What is angular CLI? how do you run an application?
+- What is one-way binding and two-way binding?
+- Can you mention some strategies to share data between components?
+- Explain the concept of dependency injection
+- How can you configure the angular dependency injection to override a dependency with a concret implentation in one specific component?
+- What is trackBy option in an ngFor ? Why is it important?
+- What is lazy loading? How to use it with modules?
+
+#### RxJs
+- How are observables different from promises?
+- What are the differences between : switchMap, conactMap, mergeMap & exhaustMap
+- What’s the difference between hot observable & cold observable?
+
+#### Frontend Architecture
+- Whats the difference between folders by feature vs folders by type? When to use each?
+- Can you mention any latency compensation strategy ?
+- Can you mention some strategies to increase the maintainability of an application?
 
 #### Fun
 - What's a cool project that you've recently worked on?
