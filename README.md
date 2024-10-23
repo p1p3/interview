@@ -32,8 +32,7 @@
 - What technology considerations do you make while building a web application or site?
 - Talk about your preferred development environment
 - Which version control systems are you familiar with?
-- Can you describe your workflow when you create a web page?
-- If you have 5 different stylesheets, how would you best integrate them into the site?
+- Can you describe your workflow when you create a web application?
 - How would you optimize a website's assets/resources?
 
 #### HTML
